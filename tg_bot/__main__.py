@@ -34,7 +34,7 @@ Using standard [Marie](http://telegram.dog/BanhammerMarie_bot) is always gonna b
 HELP_STRINGS = """
 നമസ്കാരം ! എന്റെ പേര് *{}*.
 
-ഞാൻ ടെലെഗ്രാമിലെ Group Management Bot ആണ്... എന്നെ പ്രവർത്തിപ്പിക്കേണ്ട വിധം ആണ് താഴെ കൊടുത്തിട്ടുള്ളത്....
+ith oru bot wwne voo voo
 
 *Main* ലഭ്യമായ commandകൾ:
  - /start: Botനെ Start ചെയ്യാൻ...
